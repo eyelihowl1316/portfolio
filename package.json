@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^4.3.0"
+  },
+  "dependencies": {
+    "framer-motion": "^12.40.0"
+  }
+}
