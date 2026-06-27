@@ -6,7 +6,7 @@ export default function App() {
   return (
     <section
       id="home"
-      className="py-24 px-8 bg-gradient-to-b from-white to-blue-50"
+      className="bg-gradient-to-b from-white to-blue-50"
     >
       <main className="relative h-screen overflow-hidden bg-[#ffff]">
         <Navbar />
